@@ -4,3 +4,9 @@
 	spacing:1px;
 	padding:1px;
 }
+
+table,td{
+border:1px solid rgb(0,0,0);
+	spacing:1px;
+	padding:1px;
+}
